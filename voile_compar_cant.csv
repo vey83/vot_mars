@@ -1,6 +1,6 @@
 Kantons_Nr,Kanton_d,Kanton_f,Kanton_i,Ja_Stimmen_In_Prozent_Kanton,pourc_oui,diff
-1,Zürich,Zurich,Zurigo,46.5,51.8,-5.3
-2,Bern,Berne,Berna,55.2,60.8,-5.6
+1,Zürich,Zurich,Zurigo,46.6,51.8,-5.2
+2,Bern,Berne,Berna,49.6,60.8,-11.2
 3,Luzern,Lucerne,Lucerna,50.5,61.2,-10.7
 4,Uri,Uri,Uri,58.8,63.8,-5
 5,Schwyz,Schwyz,Svitto,60.2,66.3,-6.1
@@ -20,8 +20,8 @@ Kantons_Nr,Kanton_d,Kanton_f,Kanton_i,Ja_Stimmen_In_Prozent_Kanton,pourc_oui,dif
 19,Aargau,Argovie,Argovia,53.6,64,-10.4
 20,Thurgau,Thurgovie,Turgovia,53.9,67.7,-13.8
 21,Tessin,Tessin,Ticino,60.5,68.3,-7.8
-22,Waadt,Vaud,Vaud,53.4,46.9,6.5
+22,Waadt,Vaud,Vaud,50.9,46.9,4
 23,Wallis,Valais,Vallese,58.3,58,0.3
 24,Neuenburg,Neuchâtel,Neuchâtel,52,49.3,2.7
-25,Genf,Genève,Ginevra,0,40.3,-40.3
+25,Genf,Genève,Ginevra,48.7,40.3,8.4
 26,Jura,Jura,Giura,60.7,51.2,9.5
