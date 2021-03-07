@@ -1,27 +1,27 @@
 Kantons_Nr,Kanton_d,Kanton_f,Kanton_i,Ja_Stimmen_In_Prozent_Kanton,pourc_oui,diff
-1,Zürich,Zurich,Zurigo,54.5,51.8,2.7
-2,Bern,Berne,Berna,36.8,60.8,-24
-3,Luzern,Lucerne,Lucerna,44.7,61.2,-16.5
-4,Uri,Uri,Uri,12.5,63.8,-51.3
-5,Schwyz,Schwyz,Svitto,28.8,66.3,-37.5
-6,Obwalden,Obwald,Obvaldo,15.5,62.4,-46.9
-7,Nidwalden,Nidwald,Nidvaldo,91.7,62.8,28.9
-8,Glarus,Glaris,Glarona,80.5,68.8,11.7
-9,Zug,Zoug,Zugo,41.7,56.7,-15
-10,Freiburg,Fribourg,Friburgo,64.2,55.9,8.3
-11,Solothurn,Soleure,Soletta,23,64,-41
-12,Basel-Stadt,Bâle-Ville,Basilea Città,99.8,48.4,51.4
-13,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,37.5,59.9,-22.4
-14,Schaffhausen,Schaffhouse,Sciaffusa,21.2,63.5,-42.3
-15,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,61.9,63.7,-1.8
-16,Appenzell Innerrhoden,Appenzell Rhodes-Intérieures,Appenzello Interno,62,71.4,-9.4
-17,St. Gallen,Saint-Gall,San Gallo,11.5,65.9,-54.4
-18,Graubünden,Grisons,Grigioni,34.3,58.6,-24.3
-19,Aargau,Argovie,Argovia,52.1,64,-11.9
-20,Thurgau,Thurgovie,Turgovia,98.9,67.7,31.2
-21,Tessin,Tessin,Ticino,95.1,68.3,26.8
-22,Waadt,Vaud,Vaud,17.5,46.9,-29.4
-23,Wallis,Valais,Vallese,61.9,58,3.9
-24,Neuenburg,Neuchâtel,Neuchâtel,99.6,49.3,50.3
-25,Genf,Genève,Ginevra,89.8,40.3,49.5
-26,Jura,Jura,Giura,5.5,51.2,-45.7
+1,Zürich,Zurich,Zurigo,52.6,51.8,0.8
+2,Bern,Berne,Berna,54.4,60.8,-6.4
+3,Luzern,Lucerne,Lucerna,50.5,61.2,-10.7
+4,Uri,Uri,Uri,58.8,63.8,-5
+5,Schwyz,Schwyz,Svitto,60.2,66.3,-6.1
+6,Obwalden,Obwald,Obvaldo,56.2,62.4,-6.2
+7,Nidwalden,Nidwald,Nidvaldo,56.1,62.8,-6.7
+8,Glarus,Glaris,Glarona,53.5,68.8,-15.3
+9,Zug,Zoug,Zugo,0,56.7,-56.7
+10,Freiburg,Fribourg,Friburgo,56.1,55.9,0.2
+11,Solothurn,Soleure,Soletta,52.6,64,-11.4
+12,Basel-Stadt,Bâle-Ville,Basilea Città,41.2,48.4,-7.2
+13,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,53.4,59.9,-6.5
+14,Schaffhausen,Schaffhouse,Sciaffusa,52.2,63.5,-11.3
+15,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,49.1,63.7,-14.6
+16,Appenzell Innerrhoden,Appenzell Rhodes-Intérieures,Appenzello Interno,0,71.4,-71.4
+17,St. Gallen,Saint-Gall,San Gallo,53.1,65.9,-12.8
+18,Graubünden,Grisons,Grigioni,49.6,58.6,-9
+19,Aargau,Argovie,Argovia,53.6,64,-10.4
+20,Thurgau,Thurgovie,Turgovia,53.9,67.7,-13.8
+21,Tessin,Tessin,Ticino,60.5,68.3,-7.8
+22,Waadt,Vaud,Vaud,53.5,46.9,6.6
+23,Wallis,Valais,Vallese,58.3,58,0.3
+24,Neuenburg,Neuchâtel,Neuchâtel,52,49.3,2.7
+25,Genf,Genève,Ginevra,0,40.3,-40.3
+26,Jura,Jura,Giura,60.7,51.2,9.5
